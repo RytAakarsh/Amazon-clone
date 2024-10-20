@@ -163,14 +163,17 @@ span {
     display: flex;
     flex-wrap: wrap;
     justify-content: space-evenly;
-    background-color: #e2e7e6;
+    background-color:  #131a22;
     
+ }
+ h2 {
+    color: white;
  }
 .box {
     /* border: 2px solid black ; */
     height: 400px;
     width: 23%;
-    background-color: white;
+    background-color: black;
     padding: 20px 0px 15px;
     margin-top: 15px;
     margin-bottom: 15px;
@@ -191,17 +194,17 @@ span {
 }
 .container2 {
     height: 750px;
-    background-color: #e2e7e6;
+    background-color:  #131a22;
 }
 .rectangle-section {
     height: 720px;
     width: 1480px;
     margin-left: 18px;
     margin-right: 18px;
-    background-color: white;
+    background-color: black;
 }
 #rec-heading {
-    margin-top: 15px;
+    padding-top: 10px;
     margin-left: 35px;
 }
 .section-img {
@@ -213,12 +216,12 @@ span {
 }
 /* Footer */
 footer{
-    margin-top: 15px;
+    /* margin-top: 15px; */
 }
 /* panels of footer */
 .foot-panel1 {
     background-color: #37475a;
-    color: white;
+    color:  white;
     height: 50px;
     font-weight: lighter;
     display: flex;
